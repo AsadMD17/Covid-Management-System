@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_COVID_19DataSet" targetNamespace="http://tempuri.org/_COVID_19DataSet.xsd" xmlns:mstns="http://tempuri.org/_COVID_19DataSet.xsd" xmlns="http://tempuri.org/_COVID_19DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="COVID_19ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="COVID_19ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApp1.Properties.Settings.GlobalReference.Default.COVID_19ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Daily_StatsTableAdapter" GeneratorDataComponentClassName="Daily_StatsTableAdapter" Name="Daily_Stats" UserDataComponentName="Daily_StatsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="COVID_19ConnectionString (Settings)" DbObjectName="[COVID-19].dbo.Daily_Stats" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT EDate, Daily_count FROM dbo.Daily_Stats</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EDate" DataSetColumn="EDate" />
+              <Mapping SourceColumn="Daily_count" DataSetColumn="Daily_count" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_COVID_19DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_COVID_19DataSet" msprop:Generator_UserDSName="_COVID_19DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Daily_Stats" msprop:Generator_TableClassName="Daily_StatsDataTable" msprop:Generator_TableVarName="tableDaily_Stats" msprop:Generator_TablePropName="Daily_Stats" msprop:Generator_RowDeletingName="Daily_StatsRowDeleting" msprop:Generator_RowChangingName="Daily_StatsRowChanging" msprop:Generator_RowEvHandlerName="Daily_StatsRowChangeEventHandler" msprop:Generator_RowDeletedName="Daily_StatsRowDeleted" msprop:Generator_UserTableName="Daily_Stats" msprop:Generator_RowChangedName="Daily_StatsRowChanged" msprop:Generator_RowEvArgName="Daily_StatsRowChangeEvent" msprop:Generator_RowClassName="Daily_StatsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EDate" msprop:Generator_ColumnVarNameInTable="columnEDate" msprop:Generator_ColumnPropNameInRow="EDate" msprop:Generator_ColumnPropNameInTable="EDateColumn" msprop:Generator_UserColumnName="EDate" type="xs:dateTime" />
+              <xs:element name="Daily_count" msprop:Generator_ColumnVarNameInTable="columnDaily_count" msprop:Generator_ColumnPropNameInRow="Daily_count" msprop:Generator_ColumnPropNameInTable="Daily_countColumn" msprop:Generator_UserColumnName="Daily_count" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

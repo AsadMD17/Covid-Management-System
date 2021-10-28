@@ -1,0 +1,215 @@
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+D:\bad_things\Semester 4\DB LAB\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\a\Desktop\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project1\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_Form.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.data_entry_form.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_Form.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.data_entry_form.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Patients.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Regions.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Wards.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Patient.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Patient.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Patient.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Region.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Region.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Region.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Wards.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Wards.resources
+D:\bad_things\Semester 4\DB LAB\Project2\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_Form.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.data_entry_form.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Patient.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Region.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Patients.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Regions.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Patient.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Region.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Patient.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Region.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project4\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_Form.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.data_entry_form.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Patient.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Region.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Patients.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Regions.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Patient.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Region.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Patient.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Region.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\DB_Project\Project1\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_Form.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.data_entry_form.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Patient.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Region.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Regions.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Patient.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Region.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Patient.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Region.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Wards.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Isolation.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quarantine.resources
+E:\Ali Documents (CS)\4th semester\Database lab\COVID-19 Management System\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Treatments.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_Form.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.data_entry_form.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Patient.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Region.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete_Wards.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Isolation.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_page.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Precautions.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quarantine.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Regions.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Patient.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Region.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search_Wards.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stats.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Symptoms.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Treatments.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Patient.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Region.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update_Wards.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Wards.resources
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Database complete project\Project (Complete Admin)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
